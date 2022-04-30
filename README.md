@@ -1,10 +1,30 @@
 # Java for Beginners
 
 📖 A basic tutorial for Java which I complied from internet
+  
+- Basics
+  - [Introduction to Java](#introduction_to_java)
+    - Introduction to java
+    - Basic literals
+    - Overview of the basic program
+    - Printing data
+  - [Data types and variables](#data_types_and_variables)
+    - Types and variables
+    - Sizes and ranges
+    - Type casting
+    - Primitive and reference type
+    - Final variables
+    - Types of references
+    - Floating-point types
+    - Numeric literals
+  - [Simple programs](#sample_programs)
+  - [Operations on primitive types](Operations on primitive types)
+  - [Control flow statements](#control_flow_statements)
+
 
 ## Basics
 
-### Introduction to Java
+### Introduction to Java <a name="introduction_to_java"></a>
 
 #### What is Java?
 
