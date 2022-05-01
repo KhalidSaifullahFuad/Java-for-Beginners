@@ -18,7 +18,7 @@
     - Floating-point types
     - Numeric literals
   - [Simple programs](#sample_programs)
-  - [Operations on primitive types](Operations on primitive types)
+  - [Operations on primitive types](#operations_on_primitive_types)
   - [Control flow statements](#control_flow_statements)
 
 
