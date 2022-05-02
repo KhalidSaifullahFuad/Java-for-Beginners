@@ -4,19 +4,19 @@
   
 - Basics
   - [Introduction to Java](#introduction_to_java)
-    - Introduction to java
-    - Basic literals
-    - Overview of the basic program
-    - Printing data
+    - [Introduction to Java](#introduction_to_java)
+    - [Basic literals](#basic_literals)
+    - [Overview of the basic program](#overview_of_the_basic_program)
+    - [Printing data](#printing_data)
   - [Data types and variables](#data_types_and_variables)
-    - Types and variables
-    - Sizes and ranges
-    - Type casting
-    - Primitive and reference type
-    - Final variables
-    - Types of references
-    - Floating-point types
-    - Numeric literals
+    - [Types and variables](#types_and_variables)
+    - [Sizes and ranges](#sizes_and_ranges)
+    - [Type casting](#type_casting)
+    - [Primitive and reference type](#primitive_and_reference_type)
+    - [Final variables](#final_variable)
+    - [Types of references](#types_of_references)
+    - [Floating-point types](#floating_point_types)
+    - [Numeric literals](#numeric_literals
   - [Simple programs](#sample_programs)
   - [Operations on primitive types](#operations_on_primitive_types)
   - [Control flow statements](#control_flow_statements)
