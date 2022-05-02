@@ -16,7 +16,7 @@
     - [Final variables](#final_variable)
     - [Types of references](#types_of_references)
     - [Floating-point types](#floating_point_types)
-    - [Numeric literals](#numeric_literals
+    - [Numeric literals](#numeric_literals)
   - [Simple programs](#sample_programs)
   - [Operations on primitive types](#operations_on_primitive_types)
   - [Control flow statements](#control_flow_statements)
